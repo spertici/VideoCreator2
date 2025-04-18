@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+vorrei creare una web app che sia in grado di generare video per le squadre di calcio.
+i video devono essere generati tramite l'intelligenza artificiale.
+i video possono avere dimensioni personalizzate quendi occorre una form dove poter inserire le dimensioni del video, la durata e la descrizione per la generazione del video
